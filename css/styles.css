@@ -25,20 +25,6 @@ p{
 }
 
 
-.middle-div {
-  width: 200px;
-  height: 200px;
-  background-color: red;
-  display: flex;
-  align-self: center;
-  justify-content: center
-}
-
-.bottom-div {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
-}
 
 .bottom-cloud {
   position: absolute;
